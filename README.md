@@ -1,6 +1,7 @@
 # bookmarklets
 Collection of bookmarklets. Updated regular
 # How to use
-to use these, drag the bookmarklet links to your bookmark bar
+to use these, copy these, make a new bookmark, enter in `javascript:` and then paste the code in
 # Bookmarklets
-[ReadMode](javascript:fetch("https://loganb2008.github.io/bookmarklets/data/readmode.js").then(t=>t.text()).then(txt=>eval(txt));)
+## Read mode
+`javascript:fetch("https://loganb2008.github.io/bookmarklets/data/readmode.js").then(t=>t.text()).then(txt=>eval(txt));`
