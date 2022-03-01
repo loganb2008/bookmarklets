@@ -9,4 +9,4 @@ Read mode puts all the images and text into one place for easy reading
 `fetch("https://loganb2008.github.io/bookmarklets/data/readmode.js").then(t=>t.text()).then(txt=>eval(txt));`
 ## Bookmarklet maker
 Bookmarklet makers allows you to make your own bookmarklets
-`fetch("https://loganb2008.github.io/bookmarklets/data/bookmarkletmaker.js").then(t=>t.text()).then(txt=>eval(txt));``
+`fetch("https://loganb2008.github.io/bookmarklets/data/bookmarkletmaker.js").then(t=>t.text()).then(txt=>eval(txt));`
