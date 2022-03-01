@@ -10,3 +10,9 @@ Read mode puts all the images and text into one place for easy reading
 ## Bookmarklet maker
 Bookmarklet makers allows you to make your own bookmarklets
 `fetch("https://loganb2008.github.io/bookmarklets/data/bookmarkletmaker.js").then(t=>t.text()).then(txt=>eval(txt));`
+## Page destroyer
+This bookmarklet destroys the style of a page
+`fetch("https://loganb2008.github.io/bookmarklets/data/destroypage.js").then(t=>t.text()).then(txt=>eval(txt));`
+## Design Mode
+This bookmarklet allows you to toggle design mode on the page and all iframes
+`fetch("https://loganb2008.github.io/bookmarklets/data/designmode.js").then(t=>t.text()).then(txt=>eval(txt));`
